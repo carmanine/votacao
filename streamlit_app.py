@@ -4,11 +4,11 @@ from datetime import datetime
 
 # Define os caminhos das imagens para cada nível de feedback
 emoticons = {
-    "Ótimo": "images/otimo.png",
-    "Bom": "images/bom.png",
-    "Regular": "images/regular.png",
-    "Ruim": "images/ruim.png",
-    "Pessimo": "images/pessimo.png"
+    "Ótimo": "otimo.png",
+    "Bom": "bom.png",
+    "Regular": "regular.png",
+    "Ruim": "ruim.png",
+    "Pessimo": "pessimo.png"
 }
 
 # Função para salvar o feedback em um arquivo CSV
